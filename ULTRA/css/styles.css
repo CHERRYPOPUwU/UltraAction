@@ -1,0 +1,74 @@
+/* Estilos personalizados para las páginas */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url(/img/gym-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.container-fluid {
+    background-image: url(/img/gym-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.lead {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+
+.btn {
+    margin: 0 10px;
+}
+.head-info{
+    color: #ffffff;
+}
+.container my-5 {
+    background-color: rgb(255, 255, 255);
+    
+}
+.card {
+    margin-top: 20px;
+}
+
+.card-body {
+    background-color: #ffffffe8;
+}
+.table-striped{
+    background-color: #ffffffe8;
+}
+
+form {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+form .form-group {
+    margin-bottom: 15px;
+}
+
+form .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+form .btn-primary:hover {
+    background-color: #0056b3;
+}
